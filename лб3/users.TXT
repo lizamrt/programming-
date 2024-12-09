@@ -1,0 +1,2 @@
+admin:liza12
+user:lizauser
